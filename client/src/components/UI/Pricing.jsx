@@ -1,5 +1,5 @@
-import React from "react";
-import "../../styles/pricing.css";
+import React from 'react'
+import '../../styles/pricing.css'
 
 const Pricing = () => {
   return (
@@ -10,9 +10,8 @@ const Pricing = () => {
             Gym <span className="highlights">Pricing </span>Plan
           </h2>
           <p>
-            Our gym's pricing plans are designed to cater to a range of budgets
-            and <br /> fitness aspirations, making it accessible for everyone to
-            achieve their health and wellness objectives.{" "}
+            Our gym's pricing plans are designed to cater to a range of budgets and <br /> fitness aspirations, making
+            it accessible for everyone to achieve their health and wellness objectives.{' '}
           </p>
         </div>
 
@@ -20,11 +19,7 @@ const Pricing = () => {
 
         <div className="pricing_wrapper">
           {/* pricing card -01 Starts */}
-          <div
-            className="pricing_item "
-            data-aos="fade-up"
-            data-aos-duration="1500"
-          >
+          <div className="pricing_item " data-aos="fade-up" data-aos-duration="1500">
             <div className="pricing_card-top">
               <h2 className="section_title">Regular Member</h2>
               <h2 className="pricing section_title">
@@ -37,33 +32,28 @@ const Pricing = () => {
                 <br />
                 <li>
                   <span>
-                    {" "}
-                    <i class="ri-checkbox-blank-circle-fill"></i> Access to the
-                    gym during regular hours
+                    {' '}
+                    <i class="ri-checkbox-blank-circle-fill"></i> Access to the gym during regular hours
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i> Use of basic
-                    gym equipment and facilities.
+                    <i class="ri-checkbox-blank-circle-fill"></i> Use of basic gym equipment and facilities.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i> Group fitness
-                    classes included.
+                    <i class="ri-checkbox-blank-circle-fill"></i> Group fitness classes included.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i> Locker room
-                    access.
+                    <i class="ri-checkbox-blank-circle-fill"></i> Locker room access.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i> 5 Classes per
-                    week
+                    <i class="ri-checkbox-blank-circle-fill"></i> 5 Classes per week
                   </span>
                 </li>
               </ul>
@@ -76,11 +66,7 @@ const Pricing = () => {
           {/* pricing card -01 Ends */}
 
           {/* pricing card -02 Starts */}
-          <div
-            className="pricing_item pricing_item-02"
-            data-aos="fade-up"
-            data-aos-duration="1800"
-          >
+          <div className="pricing_item pricing_item-02" data-aos="fade-up" data-aos-duration="1800">
             <div className="pricing_card-top">
               <h2 className="section_title">Premium Member</h2>
               <h2 className="pricing section_title">
@@ -93,33 +79,28 @@ const Pricing = () => {
                 <br />
                 <li>
                   <span>
-                    {" "}
-                    <i class="ri-checkbox-blank-circle-fill"></i> 24/7 access to
-                    the gym.
+                    {' '}
+                    <i class="ri-checkbox-blank-circle-fill"></i> 24/7 access to the gym.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Full access to
-                    all equipment and facilities
+                    <i class="ri-checkbox-blank-circle-fill"></i>Full access to all equipment and facilities
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Access to a
-                    dedicated personal trainer.
+                    <i class="ri-checkbox-blank-circle-fill"></i>Access to a dedicated personal trainer.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Unlimited group
-                    fitness classes.
+                    <i class="ri-checkbox-blank-circle-fill"></i>Unlimited group fitness classes.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Nutritional
-                    guidance and meal planning.
+                    <i class="ri-checkbox-blank-circle-fill"></i>Nutritional guidance and meal planning.
                   </span>
                 </li>
               </ul>
@@ -132,11 +113,7 @@ const Pricing = () => {
           {/* pricing card -02 Ends */}
 
           {/* pricing card -03 Starts */}
-          <div
-            className="pricing_item pricing_item-03 "
-            data-aos="fade-up"
-            data-aos-duration="2000"
-          >
+          <div className="pricing_item pricing_item-03 " data-aos="fade-up" data-aos-duration="2000">
             <div className="pricing_card-top">
               <h2 className="section_title">Standard Member</h2>
               <h2 className="pricing section_title">
@@ -149,33 +126,28 @@ const Pricing = () => {
                 <br />
                 <li>
                   <span>
-                    {" "}
-                    <i class="ri-checkbox-blank-circle-fill"></i>24/7 access to
-                    the gym.
+                    {' '}
+                    <i class="ri-checkbox-blank-circle-fill"></i>24/7 access to the gym.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Personalized
-                    workout plans.
+                    <i class="ri-checkbox-blank-circle-fill"></i>Personalized workout plans.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Locker and
-                    towel service included
+                    <i class="ri-checkbox-blank-circle-fill"></i>Locker and towel service included
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Unlimited group
-                    fitness classes.
+                    <i class="ri-checkbox-blank-circle-fill"></i>Unlimited group fitness classes.
                   </span>
                 </li>
                 <li>
                   <span>
-                    <i class="ri-checkbox-blank-circle-fill"></i>Exclusive
-                    access to sauna and spa facilities
+                    <i class="ri-checkbox-blank-circle-fill"></i>Exclusive access to sauna and spa facilities
                   </span>
                 </li>
               </ul>
@@ -213,7 +185,7 @@ const Pricing = () => {
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Pricing;
+export default Pricing
