@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+<<<<<<< HEAD
   "type": "module",
+=======
+  "type":"module",
+>>>>>>> 6b499f9acbbc1257eac51537b040780b81aa80f5
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,4 +19,8 @@
     "cors": "^2.8.5",
     "express": "^4.19.2"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6b499f9acbbc1257eac51537b040780b81aa80f5

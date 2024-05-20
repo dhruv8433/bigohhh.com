@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6b499f9acbbc1257eac51537b040780b81aa80f5
 ![Logo](https://github.com/omrajsharma/bigohhh.com/blob/main/client/public/images/logo.png?raw=true)
 
 <div align="center">
@@ -113,4 +117,8 @@ If you liked working on this project, do ⭐ and share this repository.
 
 If you want to contact me, you can reach me through social handles.
 
+<<<<<<< HEAD
 <a href="https://twitter.com/om_raj_sharma"><img src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omraj-sharma/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+=======
+<a href="https://twitter.com/om_raj_sharma"><img src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omraj-sharma/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+>>>>>>> 6b499f9acbbc1257eac51537b040780b81aa80f5

@@ -1,6 +1,10 @@
 /client/node_modules
 /server/node_modules
 
+<<<<<<< HEAD
 /client/.next/
 /node_modules
 /.next
+=======
+/client/.next/
+>>>>>>> 6b499f9acbbc1257eac51537b040780b81aa80f5
